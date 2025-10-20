@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/eclipse,java,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,java,python
+# Created by https://www.toptal.com/developers/gitignore/api/python,eclipse,java
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,eclipse,java
 
 ### Eclipse ###
 .metadata
@@ -264,4 +264,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# End of https://www.toptal.com/developers/gitignore/api/eclipse,java,python
+# End of https://www.toptal.com/developers/gitignore/api/python,eclipse,java
